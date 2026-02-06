@@ -1,0 +1,5 @@
+- id: check-julich-brain-versions
+  name: Check Julich-Brain versions
+  description: This hook ensures that Julich-Brain parcellations are up-to-date.
+  entry: ./check_siibra_julich_brain.py
+  language: script
