@@ -9,7 +9,7 @@ Git pre-commit hooks for `junifer-data`, to be used with either `pre-commit` or 
 ```yml
 repos:
   - repo: https://github.com/juaml/junifer-data-hooks
-    rev: 41f5400173c9392b480f1bf7a8fcd2efb009d3a8
+    rev: e53cfed516b4b1dc81b24bfb5fd90768714cd389
     hooks:
       - id: check-julich-brain-versions
 ```
